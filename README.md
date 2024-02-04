@@ -1,2 +1,0 @@
-# game
-Just casual game
